@@ -10,6 +10,12 @@ LAB 1: Introduction to Microcontroller programming using PIC microcontroller / T
 
 LAB 2: Input / Output Control using C Language
 
+- Part 1: Wrote a C program that will input from a bank of a 4 switch DIP and output each input to a corresponding LED with the PIC18F. We used PORTA as an input and PORTB as an output and the Analog to Digital Converter (ADCON1).
+- Part 2: Added an additional output, PORTC, for our RGB LED. Used 3 inputs from the DIP Switch to turn on a specific RGB color on the LED. 
+- Part 3: Wrote an endless loop that will cycle through all 8 colors (000-->111) of the RGB LED with a one second delay.
+- Part 4: Used the code for part 3 and added another RGB LED to show the inverse color or bits within the endless loop. 
+- Part 5: Used arrays to write specific values for the three RGB LEDs and call them inside an endless for loop. 
+
 LAB 3: Introduction to Assembly Program
 
 LAB 4: Assembly Program
