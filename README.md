@@ -18,6 +18,12 @@ LAB 2: Input / Output Control using C Language
 
 LAB 3: Introduction to Assembly Program
 
+  - Part 1: Learned the basic functions of assembly programming by alternating between 2 pairs of flashing LEDs.
+  - Part 2: Rewrote the code for Lab 2 part 1 in assembly that used a dip switch to control the output of the LEDs.
+  - Part 3: Rewrote the code for Lab 2 part 2 in assembly that used a dip switch to control the output of an RGB LED.
+  - Part 4: Rewrote the code for Lab 2 part 3 in assembly that used a forever for loop to cycle through the binary coded colors of an RBG LED with a one second delay. Used branching and decrementing and incrementing values.
+  - Part 5: Rewrote the code for Lab 2 part 5 in assembly that used for an array and a forever for loop to cycle through specific colors of 3 RBG LEDs with a one second delay. Used LFSR0 as a pointer to the values given in the array and their memory locations, then POSTINC0 to point to the next address. 
+
 LAB 4: Assembly Program
 
 LAB 5: A/D converter, Temperature Sensor & Light Sensor
