@@ -26,6 +26,14 @@ LAB 3: Introduction to Assembly Program
 
 LAB 4: Assembly Program
 
+  - Part A: Wrote an assembly program that did 1's Complement for PORTA (4 bits) and output it to PORTD.
+  - Part B: Added an LED indicating the Zero Flag using the BZ instruction.
+  - Part C: Added (ADDWF) two inputs together and displayed it on PORTD while using the Zero Flag.
+  - Part D: Replaced ADDWF with ANDWF and displayed it on PORTD while using the Zero Flag.
+  - Part E: Replaced with XORWF while using the Zero Flag.
+  - Part F: Converted the binary input of PORTA to its BCD equivalent while using the Zero Flag.
+  - Part G: Added all the previous tasks into their designated subroutines. Indicated which task to do based off another 3 input Dip Switch (000-100). Depending on the input, it will change the procedure. Utilized subroutines, BTFSC, and practiced proper jumping/branching techniques.
+
 LAB 5: A/D converter, Temperature Sensor & Light Sensor
 
 LAB 6: Digital Voltage & Ohm Meters
