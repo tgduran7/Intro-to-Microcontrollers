@@ -49,11 +49,3 @@ LAB 10: IR Receiver
 LAB 11: Hardware and Soft I2C with Real-Time Clock
 
 LAB 12: Special Final Integration Project
-
-MICROCONTROLLER LECTURE USING ASSEMBLY:
-
-- Term Project:
-
-- Assignments: 
-
-  - AS2: Used assembly to subtract and add two registers, and show the status register through debugging. 
