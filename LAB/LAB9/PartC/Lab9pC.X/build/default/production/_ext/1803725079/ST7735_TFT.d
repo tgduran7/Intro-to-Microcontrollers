@@ -1,0 +1,1 @@
+ build/default/production/_ext/1803725079/ST7735_TFT.d  build/default/production/_ext/1803725079/ST7735_TFT.p1:  ../Lab9pB.X/ST7735_TFT.c
